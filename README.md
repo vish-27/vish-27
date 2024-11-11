@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vishakha Agrawal
 - 👀 I’m interested in building user friendly web-appications.
-- 🌱 I’m currently learning Next.JS
-- 💞️ I’m looking to collaborate on React.JS projects.
+- 🌱 I’m currently learning Next.JS.
+- 💞️ I’m looking to collaborate on Fullstack projects in MERN.
 
 
 <!---
